@@ -10,16 +10,10 @@ A date generator app. This app will allow you to input the mood: Is it a first d
 
 ### Design
 
-![Design image](placeholder.png)
+<img width="4080" height="3072" alt="Design (1)" src="https://github.com/user-attachments/assets/6d428c16-498b-4761-851f-f8fff7a949d1" />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-```mermaid
-sequenceDiagram
-    actor You
-    actor Website
-    You->>Website: Replace this with your design
-```
+In the crude drawings above, the general layout of the app is presented with a title above, interactable login, and interactable buttons for the prompts and saving the generated idea.
 
 ### Key features
 
