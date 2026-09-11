@@ -1,4 +1,4 @@
-# Your startup name here
+# Date Idea Generator
 
 [My Notes](notes.md)
 
@@ -23,9 +23,9 @@ sequenceDiagram
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- Interactable questions that allow for ultimate date idea generation
+- Ability to save generated ideas
+- Ability to review used ideas and see reviews from other users
 
 ### Technologies
 
@@ -33,10 +33,14 @@ I am going to use the required technologies in the following ways.
 
 - **HTML** - Three HTML pages. One for login, second for input and idea generation, and third for saved ideas and user ranking.
 - **CSS** - Easy to navigate with buttons that push in on animation, and transition animations to give the app life.
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **React** - Provides login, option to generate idea or view saved ideas, generation leads to prompts for the idea, option to save idea, in saved ideas can review ideas, ability to see other users' reviews
+- **Service** - Backend service with endpoints for:
+Answering prompts for idea generation.
+Retrieve other users' reviews on applied ideas.
+Send out user's own reviews.
+Register, login, and logout users. Ideas are saved to accounts.
+- **DB/Login** - Store users, friends, saved ideas, and idea reviews.
+- **WebSocket** - As users submit reviews, they are sent out.
 
 ## 🚀 Specification Deliverable
 
