@@ -118,17 +118,17 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [X] I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
-- [X] **Stores data in MongoDB** - I did not complete this part of the deliverable.
-- [X] **Stores credentials in MongoDB** - I did not complete this part of the deliverable.
+- [ ] I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
+- [ ] **Stores data in MongoDB** - I did not complete this part of the deliverable.
+- [ ] **Stores credentials in MongoDB** - I did not complete this part of the deliverable.
 
 ## 🚀 WebSocket deliverable
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [X] I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
-- [X] **Backend listens for WebSocket connection** - I did not complete this part of the deliverable.
-- [X] **Frontend makes WebSocket connection** - I did not complete this part of the deliverable.
-- [X] **Data sent over WebSocket connection** - I did not complete this part of the deliverable.
-- [X] **WebSocket data displayed** - I did not complete this part of the deliverable.
-- [X] **Application is fully functional** - I did not complete this part of the deliverable.
+- [ ] I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
+- [ ] **Backend listens for WebSocket connection** - I did not complete this part of the deliverable.
+- [ ] **Frontend makes WebSocket connection** - I did not complete this part of the deliverable.
+- [ ] **Data sent over WebSocket connection** - I did not complete this part of the deliverable.
+- [ ] **WebSocket data displayed** - I did not complete this part of the deliverable.
+- [ ] **Application is fully functional** - I did not complete this part of the deliverable.
