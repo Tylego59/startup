@@ -19,6 +19,9 @@ Interesting things I have learned about AWS
 
 Interesting things I have learned about HTML
 
+- In order to end a type, us a backslash and the type (ex. <td>table data</td>)
+- use ref= for a link, src= for an image, and alt= for the image name
+
 ## React
 
 Interesting things I have learned about React
