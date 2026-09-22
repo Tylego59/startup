@@ -24,6 +24,7 @@ Interesting things I have learned about HTML
 - In order to end a type, us a backslash and the type (ex. <td>table data</td>)
 - use href= for a link, src= for an image, and alt= for the image name
 - you can deploy html files to your domain, making it accessible through an extension of sorts. For example: simon.mydomain.click. The simon file does not simply replace the mydomain.click if we do not deploy it to do so.
+- The subdomain must exist through route 53
 - favicon is short for favorite icon, it is what allows for the little icon on the tab to appear. Use the code: \<link rel="icon" href="favicon.ico" />
 - Make sure to save a file named "favicon.ico"
 - By using \<form method="get" action="yourotherpage.html"> it can jump to the next page when you hit either login or create buttons.
