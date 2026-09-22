@@ -62,16 +62,16 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
-- [ ] **HTML pages** - I did not complete this part of the deliverable.
-- [ ] **Proper HTML element usage** - I did not complete this part of the deliverable.
-- [ ] **Links** - I did not complete this part of the deliverable.
-- [ ] **Text** - I did not complete this part of the deliverable.
-- [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
-- [ ] **Images** - I did not complete this part of the deliverable.
-- [ ] **Login placeholder** - I did not complete this part of the deliverable.
-- [ ] **DB data placeholder** - I did not complete this part of the deliverable.
-- [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
+- [X] I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
+- [X] **HTML pages** - I created an index.html and will be creating a generator.html, an ideas.html, and a friends.html
+- [X] **Proper HTML element usage**
+- [X] **Links** - I changed the link names in the menu for when the future html pages are created.
+- [X] **Text** - I changed the title and replaced "Welcome to Simon" with "Login"
+- [X] **3rd party API placeholder**
+- [X] **Images** - I changed the favicon to one of a heart.
+- [X] **Login placeholder** - I kept the simon login.
+- [X] **DB data placeholder**
+- [X] **WebSocket placeholder**
 
 ## 🚀 CSS deliverable
 
