@@ -81,7 +81,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [X] **Visually appealing colors and layout. No overflowing elements.**
 - [X] **Use of a CSS framework**
 - [X] **All visual elements styled using CSS**
-- [ ] **Responsive to window resizing using flexbox and/or grid display** - I did not complete this part of the deliverable.
+- [X] **Responsive to window resizing using flexbox and/or grid display**
 - [ ] **Use of a imported font** - I did not complete this part of the deliverable.
 - [ ] **Use of different types of selectors including element, class, ID, and pseudo selectors** - I did not complete this part of the deliverable.
 
