@@ -80,7 +80,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [X] I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
 - [X] **Visually appealing colors and layout. No overflowing elements.**
 - [X] **Use of a CSS framework**
-- [ ] **All visual elements styled using CSS** - I did not complete this part of the deliverable.
+- [X] **All visual elements styled using CSS**
 - [ ] **Responsive to window resizing using flexbox and/or grid display** - I did not complete this part of the deliverable.
 - [ ] **Use of a imported font** - I did not complete this part of the deliverable.
 - [ ] **Use of different types of selectors including element, class, ID, and pseudo selectors** - I did not complete this part of the deliverable.
