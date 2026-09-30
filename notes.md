@@ -29,6 +29,13 @@ Interesting things I have learned about HTML
 - Make sure to save a file named "favicon.ico"
 - By using \<form method="get" action="yourotherpage.html"> it can jump to the next page when you hit either login or create buttons.
 
+## CSS
+
+Interesting things I have learned about CSS
+
+- It makes websites look WAY better
+- By editing the body, sections, headers, etc in the \<styles> section, CSS can properly be used. You can edit text alignment, colors, and more.
+- By using @import you can import fonts from places like [Google Fonts](https://fonts.google.com)
 ## React
 
 Interesting things I have learned about React
