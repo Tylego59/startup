@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Vite production build output
+dist/
+dist-ssr/
+
+# Environment / local configs
+.env
+.env.local
+*.local
+
+# Editor directories and system files
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Deployment keys (crucial: never commit your PEM key)
+*.pem
