@@ -1,0 +1,4 @@
+
+Missing required parameter.
+  syntax: deployReact.sh -k <pem key file> -h <hostname> -s <service>
+
