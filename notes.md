@@ -42,4 +42,6 @@ Interesting things I have learned about React
 
 - JavaScript can do really cool things, like making the websites interactive.
 - We can use localStorage to save data across renderings and sessionStorage for small session details to help not clutter localStorage slowing down the program
-- "useEffect"
+- "useState" Declares a state variable that react preserves across re-renders.
+- "useEffect" Handles operations that interact with things outside the component--such as fetching data from an API, setting up timers, manual DOM manipulation, or establishing WebSocket connections.
+- "useNavigation" Calls on other pages written in other scripts.
