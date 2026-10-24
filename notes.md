@@ -40,4 +40,6 @@ Interesting things I have learned about CSS
 
 Interesting things I have learned about React
 
-I love web programming! It's the best!
+- JavaScript can do really cool things, like making the websites interactive.
+- We can use localStorage to save data across renderings and sessionStorage for small session details to help not clutter localStorage slowing down the program
+- "useEffect"
